@@ -1,5 +1,9 @@
 hola mundo
 hola ramiro
 hola chuy
+<<<<<<< HEAD
 hola chicano drumcover
+=======
+hola chicano chicarcas
+>>>>>>> 96b171c0ca6fd9ee881b7c11935f867ce9b60629
 
